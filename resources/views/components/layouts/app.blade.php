@@ -34,7 +34,7 @@
     @else
         {{-- Valeurs par défaut (ex: Accueil) --}}
         <meta property="og:title" content="Digital Akili">
-        <meta property="og:description" content="Formations et services de santé à FUKANG.">
+        <meta property="og:description" content="DIGITAL AKILI SARL.">
         <meta property="og:image" content="{{asset('assets/img/favicon.png')}}">
         <meta name="twitter:image" content="{{asset('assets/img/favicon.png')}}">
     @endif
