@@ -20,10 +20,10 @@
         <div class="col-lg-4 col-md-3 footer-links">
           <h4>Liens rapides</h4>
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Accueil</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">A propos</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Equipe</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="{{route('home')}}">Accueil</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="{{route('about')}}">A propos</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="{{route('services')}}">Services</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="{{route('team')}}">Equipe</a></li>
           </ul>
         </div>
 
