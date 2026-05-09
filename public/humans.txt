@@ -1,0 +1,18 @@
+/* TEAM */
+  Développeur Full-Stack : Christian Betoko
+  Site web : https://www.christianbetoko.dev
+  Contact : contact [at] christianbetoko.dev
+  Téléphone : +243 842 090 072
+  Localisation : Kinshasa, RDC
+
+/* THANKS */
+  Laravel Framework
+  Livewire
+  Filament PHP
+  
+/* SITE */
+  Dernière mise à jour : 2026/05/09
+  Langue : Français
+  Doctype : HTML5
+  IDE : Visual Studio Code
+  Technologies : PHP, Laravel, Livewire, Filament PHP, Bootstrap CSS

@@ -10,7 +10,7 @@
  
   <meta name="description" content="">
   <meta name="keywords" content="">
-
+<link rel="author" href="{{ asset('humans.txt') }}">
   <!-- Favicons -->
   <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
   <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
